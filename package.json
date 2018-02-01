@@ -16,10 +16,14 @@
   "dependencies": {
     "mkdirp": "^0.5.1"
   },
+  "bugs": {
+    "url": "https://github.com/Christopher2K/generator-static-website-njk/issues"
+  },
+  "author": "Christopher N. KATOYI-KABA",
   "licence": "MIT",
   "private": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/claudetech/generator-static-website"
+    "url": "https://github.com/Christopher2K/generator-static-website-njk"
   }
 }
