@@ -1,0 +1,9 @@
+{% set pageTitle = "<%= title %>" %}
+{% set pageMeta = "Website with Yeoman & Nunjucks" %}
+{% extends 'templates/page.njk' %}
+{% block body %}
+    <header>
+        <%= title %>
+    </header>
+    {% include 'templates/scripts.njk' %}
+{% endblock %}

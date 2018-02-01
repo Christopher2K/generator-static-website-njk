@@ -1,0 +1,1 @@
+# generator-static-website-njk

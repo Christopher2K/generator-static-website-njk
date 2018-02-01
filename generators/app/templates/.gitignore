@@ -1,0 +1,10 @@
+# IDE things
+.idea/
+.vscode/
+
+# Dependencies
+node_modules/
+
+# Compiled code
+dist/
+

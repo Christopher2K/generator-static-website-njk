@@ -1,0 +1,25 @@
+{
+  "name": "generator-static-website-njk",
+  "version": "0.1.0",
+  "main": "app/index.js",
+  "license": "MIT",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "description": "Static website generator with Yeoman",
+  "files": [
+    "app"
+  ],
+  "devDependencies": {
+    "yeoman-generator": "^2.0.2"
+  },
+  "dependencies": {
+    "mkdirp": "^0.5.1"
+  },
+  "licence": "MIT",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/claudetech/generator-static-website"
+  }
+}
