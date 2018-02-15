@@ -3,7 +3,7 @@
 This package provide a starter pack for developing a static website. 
 
 ## Command
-Run `yarn global add generator-static-website-njk` and `yo static-website-njk website-name`
+Run `yarn global add generator-static-website-njk` and `yo static-website <website-name>`
 
 ## Stack
 * [Nunjucks](https://mozilla.github.io/nunjucks/) - Templating
